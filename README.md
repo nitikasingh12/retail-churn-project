@@ -222,8 +222,8 @@ The Streamlit dashboard provides an interactive interface for:
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/retail-customer-analytics.git
-cd retail-customer-analytics
+git clone https://github.com/nitikasingh12/retail-churn-project.git
+cd retail-churn-project
 ```
 
 ### Step 2: Download the dataset
